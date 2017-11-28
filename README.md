@@ -1,8 +1,7 @@
 # lss
 An approach to consolidate the sequential files in a directory and helping in identifying missing files. 
 
-**ls
-
+> ls
 
 elem.info sd_fx29.0112.rgb sd_fx29.0125.rgb sd_fx29.0137.rgb
 sd_fx29.0101.rgb sd_fx29.0113.rgb sd_fx29.0126.rgb sd_fx29.0138.rgb
@@ -17,12 +16,12 @@ sd_fx29.0109.rgb sd_fx29.0121.rgb sd_fx29.0134.rgb sd_fx29.0146.rgb
 sd_fx29.0110.rgb sd_fx29.0123.rgb sd_fx29.0135.rgb sd_fx29.0147.rgb
 sd_fx29.0111.rgb sd_fx29.0124.rgb sd_fx29.0136.rgb strange.xml
 
-**lss
+> lss
 
-*1 elem.info
+1 elem.info
 
-*46 sd_fx29.%04d.rgb 101-121 123-147
+46 sd_fx29.%04d.rgb 101-121 123-147
 
-*1 strange.xml
+1 strange.xml
 
 
